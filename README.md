@@ -12,7 +12,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Jakub-Muzyka&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there :wink:
+  hi there :wink:
   </h1>
 </div>
 <div align="center">
