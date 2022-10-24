@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a student of second year at Wroclaw University of Science and Technology on field of study: "Applied mathematics" :mortar_board:
+I am a student of third year at Wroclaw University of Science and Technology on field of study: "Applied mathematics" :mortar_board:
 
 - :zap: In my free time, I like swimming and playing football with friends and also learning a new things
 
