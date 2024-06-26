@@ -12,7 +12,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Jakub-Muzyka&style=flat-square&color=blue" alt=""/>
   <h1>
-  hi there :wink:
+  Hi there :wink:
   </h1>
 </div>
 <div align="center">
@@ -23,11 +23,13 @@
 
 ### :man_technologist: About Me :
 
-I am a student of third year at Wroclaw University of Science and Technology on field of study: "Applied mathematics" :mortar_board:
+I am a first year Master's student at Wrocław University of Science and Technology in the field: "Applied Mathematics" 🎓
 
-- :zap: In my free time, I like swimming and playing football with friends and also learning a new things
+- :zap: I am also very involved in Sports especially swimming, cycling and running. I am triathlete and Ironman participant :zap:
 
-- :mailbox: How to reach me: kubamuzyka84@gmail.com 
+- :mailbox: How to reach me: kubamuzyka84@gmail.com
+  
+- :link: https://www.linkedin.com/in/jakub-muzyka-a50840254/
 
 ---
 
