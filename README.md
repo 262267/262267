@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/jakub.muzyka.14/">
-    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.linkedin.com/in/jakub-muzyka-a50840254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/jakub.muzyka/">
     <img src="https://img.shields.io/badge/Instagram-da1884?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
